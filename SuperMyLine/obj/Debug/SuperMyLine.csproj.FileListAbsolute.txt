@@ -1,0 +1,9 @@
+C:\Users\User01\OneDrive\Área de Trabalho\SuperMyLine\SuperMyLine\obj\Debug\SuperMyLine.csproj.AssemblyReference.cache
+C:\Users\User01\OneDrive\Área de Trabalho\SuperMyLine\SuperMyLine\obj\Debug\SuperMyLine.csproj.CoreCompileInputs.cache
+C:\Users\User01\OneDrive\Área de Trabalho\SuperMyLine\SuperMyLine\bin\Debug\SuperMyLine.exe.config
+C:\Users\User01\OneDrive\Área de Trabalho\SuperMyLine\SuperMyLine\bin\Debug\SuperMyLine.exe
+C:\Users\User01\OneDrive\Área de Trabalho\SuperMyLine\SuperMyLine\bin\Debug\SuperMyLine.pdb
+C:\Users\User01\OneDrive\Área de Trabalho\SuperMyLine\SuperMyLine\obj\Debug\SuperMyLine.exe
+C:\Users\User01\OneDrive\Área de Trabalho\SuperMyLine\SuperMyLine\obj\Debug\SuperMyLine.pdb
+C:\Users\User01\OneDrive\Área de Trabalho\SuperMyLine\SuperMyLine\obj\Debug\SuperMyLine.SuperMegaLojja.resources
+C:\Users\User01\OneDrive\Área de Trabalho\SuperMyLine\SuperMyLine\obj\Debug\SuperMyLine.csproj.GenerateResource.cache
