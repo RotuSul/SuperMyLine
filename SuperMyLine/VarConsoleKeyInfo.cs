@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Drawing;
 
 namespace SuperMyLine
 {
@@ -17,5 +18,7 @@ namespace SuperMyLine
         public double PreçoColitec = 499;
         public double Dispositivopreço = 799;
         public double Pessoa;
+
+
     }
 }
